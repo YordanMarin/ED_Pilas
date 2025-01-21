@@ -1,0 +1,10 @@
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\bin\Debug\Pilas.exe.config
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\bin\Debug\Pilas.exe
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\bin\Debug\Pilas.pdb
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.Form1.resources
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.Properties.Resources.resources
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.csproj.GenerateResource.cache
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.exe
+C:\Users\UPN\Downloads\PROYECTOS ED\ED\Pilas\obj\Debug\Pilas.pdb
